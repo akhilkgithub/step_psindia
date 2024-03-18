@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context7" WorkspaceID="Approved" UseContextLocale="false">
+    <Products>
+        <Product ID="AKAH_L3_459854" UserTypeID="AKAH_L3" ParentID="AKAH_L2_459853">
+            <Name>Sales Item</Name>
+            <Values>
+                <Value AttributeID="AT_AKAH_Desc_Attribute">Hi &lt;gt/&gt; shs</Value>
+            </Values>
+        </Product>
+    </Products>
+</STEP-ProductInformation>
